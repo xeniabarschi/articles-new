@@ -1,0 +1,76 @@
+body{
+    font-family: Arial;
+    min-width: 1000px;;
+}
+
+.content{
+    margin-top: 3%;
+    width: 57%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 3%;
+}
+span{
+    font-family: Georgia ;
+    color: goldenrod;
+    font-size:x-large;
+}
+
+#img1:hover{
+    border: 2px solid red;
+}
+#img2:hover{
+    border: 2px solid red;
+}
+#img3:hover{
+    border: 2px solid red;}
+#img4:hover{
+        border: 2px solid red;} 
+.mini:{
+    width: 60%;
+}
+.max img{
+    width: 45%;
+    float: left;
+    margin-right: 2%;
+}
+ p{
+    text-align: justify;
+}
+.second img{
+    width: 45%;
+    float: right;
+    margin-left: 2%;
+}
+.third img{
+    width: 45%;
+    float: left;
+    margin-right: 2%;
+}
+footer{
+    text-align: right;
+    color: inherit;
+}
+.sidebar{
+    margin-top: 3%;
+    width: 20%;
+    float: right;
+    margin-right: 10%;
+   
+}
+.sidebar img{
+    width: 100%;
+}
+.sidebar li{
+    background-color: #eee;
+    padding: 3% 5%;
+    margin-bottom: 2%;
+    color: black
+}
+.sidebar li:hover{
+    background-color: #9587 ;
+}
+.sidebar p{
+    text-align: justify;
+}
+
